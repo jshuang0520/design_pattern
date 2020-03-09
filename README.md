@@ -118,7 +118,7 @@ orderPizza()方法依賴工廠方法來建立具象類別，並產生出實際�
 
 <!-- Row 1 of Creational Patterns - Simple Factory -->
 <tr>
-<td></td> <!-- side bar : logo -->
+<td>hard code; client 直接使用工廠方法</td> <!-- side bar : logo -->
 <td>Simple Factory</td>
 <td></td> <!-- Column 1 : Refactoring -->
 <td><a href="https://www.geeksforgeeks.org/factory-method-python-design-patterns/">ref</a></td> <!-- Column 2 : GeeksforGeeks -->
@@ -136,7 +136,7 @@ orderPizza()方法依賴工廠方法來建立具象類別，並產生出實際�
 
 <!-- Row 2 of Creational Patterns - Factory Method -->
 <tr>
-<td><img src="https://refactoring.guru/images/patterns/cards/factory-method-mini-2x.png" height="50" width="75"></td> <!-- side bar : logo -->
+<td><img src="https://refactoring.guru/images/patterns/cards/factory-method-mini-2x.png" height="50" width="75"> 多個產品，每個產品1個類型 </td> <!-- side bar : logo -->
 <td>Factory Method</td>
 <td>
 <a href="https://refactoring.guru/design-patterns/factory-method">UML</a> &nbsp;&nbsp;&nbsp;
@@ -150,7 +150,7 @@ orderPizza()方法依賴工廠方法來建立具象類別，並產生出實際�
 </tr>
 
 <!-- Row 3 of Creational Patterns - Abstract Factory -->
-<td><img src="https://refactoring.guru/images/patterns/cards/abstract-factory-mini-2x.png" height="50" width="75"></td> <!-- side bar : logo -->
+<td><img src="https://refactoring.guru/images/patterns/cards/abstract-factory-mini-2x.png" height="50" width="75"> 多個產品，每個產品多個類型 </td> <!-- side bar : logo -->
 <td>Abstract Factory</td>
 <td>
 <a href="https://refactoring.guru/design-patterns/abstract-factory">UML</a> &nbsp;&nbsp;&nbsp;
@@ -165,7 +165,7 @@ orderPizza()方法依賴工廠方法來建立具象類別，並產生出實際�
 
 <!-- Row 4 of Creational Patterns - DAO Factory -->
 <tr>
-<td></td>
+<td>it's Abstract Factory</td>
 <td>DAO Factory</td>
 <td></td>
 <td></td>
