@@ -113,8 +113,8 @@
 <td><a href="https://blog.csdn.net/huobanjishijian/article/details/79151351">ref</a></td> <!-- Column 5 : others -->
 <td rowspan="4">
   <a href="https://nbviewer.jupyter.org/github/jshuang0520/design_pattern/blob/master/factory_family.ipynb"> note </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=ub0DXaeV6hA"> video-factory-method </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=xbjAsdAK4xQ"> video-abstract-factory </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=ub0DXaeV6hA"> f-method </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=xbjAsdAK4xQ"> abstract-f </a> &nbsp;&nbsp;&nbsp;
 </td> 
 </tr>
 
