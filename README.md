@@ -121,9 +121,9 @@ orderPizza()方法依賴工廠方法來建立具象類別，並產生出實際�
 <td></td> <!-- side bar : logo -->
 <td>Simple Factory</td>
 <td></td> <!-- Column 1 : Refactoring -->
-<td></td> <!-- Column 2 : GeeksforGeeks -->
+<td><a href="https://www.geeksforgeeks.org/factory-method-python-design-patterns/">ref</a></td> <!-- Column 2 : GeeksforGeeks -->
 <td></td> <!-- Column 3 : NF技術客-->
-<td></td> <!-- Column 4 : github-->
+<td><a href="https://github.com/faif/python-patterns/blob/master/patterns/creational/factory.py">ref</a></td> <!-- Column 4 : github-->
 <td><a href="https://blog.csdn.net/huobanjishijian/article/details/79151351">ref</a></td> <!-- Column 5 : others -->
 <td rowspan="4">
   <a href="https://blog.csdn.net/u011654843/article/details/99692401?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task"> ref </a> &nbsp;&nbsp;&nbsp;
@@ -138,10 +138,13 @@ orderPizza()方法依賴工廠方法來建立具象類別，並產生出實際�
 <tr>
 <td><img src="https://refactoring.guru/images/patterns/cards/factory-method-mini-2x.png" height="50" width="75"></td> <!-- side bar : logo -->
 <td>Factory Method</td>
-<td></td> <!-- Column 1 : Refactoring -->
-<td><a href="https://www.geeksforgeeks.org/factory-method-python-design-patterns/">ref</a></td> <!-- Column 2 : GeeksforGeeks -->
+<td>
+<a href="https://refactoring.guru/design-patterns/factory-method">UML</a> &nbsp;&nbsp;&nbsp;
+<a href="https://refactoring.guru/design-patterns/factory-method/python/example#lang-features">code</a> &nbsp;&nbsp;&nbsp;
+</td> <!-- Column 1 : Refactoring -->
+<td></td> <!-- Column 2 : GeeksforGeeks -->
 <td><a href="https://notfalse.net/3/ioc-di#IoCDI-vs-Factory-Method-Pattern">ref</a></td> <!-- Column 3 : NF技術客-->
-<td><a href="https://github.com/faif/python-patterns/blob/master/patterns/creational/factory.py">ref</a></td>  <!-- Column 4 : github--> 
+<td></td>  <!-- Column 4 : github--> 
 <td><a href="https://blog.csdn.net/huobanjishijian/article/details/79151351">ref</a></td> <!-- Column 5 : others -->
 
 </tr>
