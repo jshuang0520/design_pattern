@@ -73,7 +73,7 @@
 
 <!-- Line 1 -->
 <tr>
-<td><em>Creational Patterns</em></td>
+<td><font size="+3">Creational Patterns</font></td>
 <td></td>
 <td></td>
 <td></td>
