@@ -111,7 +111,10 @@
 <td></td> <!-- Column 3 : NF技術客-->
 <td></td> <!-- Column 4 : github-->
 <td><a href="https://blog.csdn.net/huobanjishijian/article/details/79151351">ref</a></td> <!-- Column 5 : others -->
-<td rowspan="4"><a href="https://nbviewer.jupyter.org/github/jshuang0520/design_pattern/blob/master/factory_family.ipynb"> note </a></td> 
+<td rowspan="4">
+  <a href="https://nbviewer.jupyter.org/github/jshuang0520/design_pattern/blob/master/factory_family.ipynb"> note </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=ub0DXaeV6hA"> youtube </a> &nbsp;&nbsp;&nbsp;
+</td> 
 </tr>
 
 
