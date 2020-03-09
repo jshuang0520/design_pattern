@@ -83,7 +83,7 @@
 
 <!-- Line 2 -->
 <tr>
-<td><em>### Creational Patterns</em></td>
+<td>### Creational Patterns</td>
 <td></td>
 <td></td>
 <td></td>
