@@ -76,7 +76,7 @@
 <tr>
 <td><em>Creational Patterns</em></td>
 <td></td>
-<td></td>
+<td><img src="https://refactoring.guru/images/patterns/cards/abstract-factory-mini-2x.png" height="83" width="124" alt="input images"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -88,7 +88,7 @@
 <td></td>
 <td>Simple Factory</td>
 <td></td>
-<td><img src="https://refactoring.guru/images/patterns/cards/abstract-factory-mini-2x.png" height="83" width="124" alt="input images"></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
