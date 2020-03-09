@@ -63,13 +63,13 @@
 <table>
 <!-- Row 1 : This is for Columns-->
 <tr>
-<th>Design Patterns / source</th>
+<th>Design Patterns</th>
 <th></th>
-<th>Refactoring Guru</th>
+<th>Refactoring</th>
 <th>GeeksforGeeks</th>
-<th>NotFalse 技術客</th>
-<th>faif github</th>
-<th>其他</th>
+<th>NF技術客</th>
+<th>github</th>
+<th>others</th>
 </tr>
 
 <!-- Row : Creational Patterns -->
@@ -85,24 +85,24 @@
 
 <!-- Row 1 of Creational Patterns - Simple Factory -->
 <tr>
-<td></td>
+<td></td> <!-- side bar : logo -->
 <td>Simple Factory</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td></td> <!-- Column 1 : Refactoring -->
+<td></td> <!-- Column 2 : GeeksforGeeks -->
+<td></td> <!-- Column 3 : NF技術客-->
+<td></td> <!-- Column 4 : github-->
+<td><a href="https://blog.csdn.net/huobanjishijian/article/details/79151351">ref</a></td> <!-- Column 5 : others -->
 </tr>
 
 <!-- Row 2 of Creational Patterns - Factory Method -->
 <tr>
-<td></td>
+<td></td> <!-- side bar : logo -->
 <td>Factory Method</td>
-<td></td>
-<td><a href="https://www.geeksforgeeks.org/factory-method-python-design-patterns/">ref</a></td>
-<td></td>
-<td></td>
-<td></td>
+<td></td> <!-- Column 1 : Refactoring -->
+<td><a href="https://www.geeksforgeeks.org/factory-method-python-design-patterns/">ref</a></td> <!-- Column 2 : GeeksforGeeks -->
+<td><a href="https://notfalse.net/3/ioc-di#IoCDI-vs-Factory-Method-Pattern">ref</a></td> <!-- Column 3 : NF技術客-->
+<td><a href="https://github.com/faif/python-patterns/blob/master/patterns/creational/factory.py">ref</a></td>  <!-- Column 4 : github--> 
+<td><a href="https://blog.csdn.net/huobanjishijian/article/details/79151351">ref</a></td> <!-- Column 5 : others -->
 </tr>
 
 <!-- Row 3 of Creational Patterns - Abstract Factory -->
