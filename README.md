@@ -111,7 +111,7 @@
 <td></td> <!-- Column 3 : NF技術客-->
 <td></td> <!-- Column 4 : github-->
 <td><a href="https://blog.csdn.net/huobanjishijian/article/details/79151351">ref</a></td> <!-- Column 5 : others -->
-<td rowspan="3"><a href="https://nbviewer.jupyter.org/github/jshuang0520/design_pattern/blob/master/factory_family.ipynb"> note </a></td> 
+<td rowspan="4"><a href="https://nbviewer.jupyter.org/github/jshuang0520/design_pattern/blob/master/factory_family.ipynb"> note </a></td> 
 </tr>
 
 
@@ -149,8 +149,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td><a href="https://www.oracle.com/technetwork/java/dataaccessobject-138824.html"> ref </a></td> <!-- Column 5 : others -->
+
 </tr>
 
 <!-- Row 5 of Creational Patterns - Builder -->
