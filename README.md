@@ -61,7 +61,7 @@
   
   
 <table>
-
+<!-- Row 1 : This is for Columns-->
 <tr>
 <th>Design Patterns / source</th>
 <th></th>
@@ -72,7 +72,7 @@
 <th>其他</th>
 </tr>
 
-<!-- Line 1 -->
+<!-- Row : Creational Patterns -->
 <tr>
 <td><em>Creational Patterns</em></td>
 <td></td>
@@ -83,9 +83,9 @@
 <td></td>
 </tr>
 
-<!-- Line 2 -->
+<!-- Row 1 of Creational Patterns - Simple Factory -->
 <tr>
-<td><img src="https://refactoring.guru/images/patterns/cards/abstract-factory-mini-2x.png" height="83" width="124" alt="input images"></td>
+<td></td>
 <td>Simple Factory</td>
 <td></td>
 <td></td>
@@ -94,7 +94,7 @@
 <td></td>
 </tr>
 
-<!-- Line 3 -->
+<!-- Row 2 of Creational Patterns - Factory Method -->
 <tr>
 <td></td>
 <td>Factory Method</td>
@@ -105,9 +105,9 @@
 <td></td>
 </tr>
 
-<!-- Line 4 -->
+<!-- Row 3 of Creational Patterns - Abstract Factory -->
 <tr>
-<td></td>
+<td><img src="https://refactoring.guru/images/patterns/cards/abstract-factory-mini-2x.png" height="83" width="124" alt="input images"></td>
 <td>Abstract Factory</td>
 <td></td>
 <td><a href="https://www.geeksforgeeks.org/abstract-factory-method-python-design-patterns/">ref</a></td>
@@ -116,7 +116,7 @@
 <td></td>
 </tr>
 
-<!-- Line 5 -->
+<!-- Row 4 of Creational Patterns - DAO Factory -->
 <tr>
 <td></td>
 <td>DAO Factory</td>
@@ -127,7 +127,7 @@
 <td></td>
 </tr>
 
-<!-- Line 6 -->
+<!-- Row 5 of Creational Patterns - Builder -->
 <tr>
 <td></td>
 <td>Builder</td>
@@ -138,7 +138,7 @@
 <td></td>
 </tr>
 
-<!-- Line 7 -->
+<!-- Row 6 of Creational Patterns - Prototype -->
 <tr>
 <td></td>
 <td>Prototype</td>
@@ -149,7 +149,7 @@
 <td></td>
 </tr>
 
-<!-- Line 8 -->
+<!-- Row 7 of Creational Patterns - Singleton -->
 <tr>
 <td></td>
 <td>Singleton</td>
