@@ -63,8 +63,8 @@
 <table>
 
 <tr>
-<th>Types</th>
 <th>Design Patterns / source</th>
+<th></th>
 <th>Refactoring Guru</th>
 <th>GeeksforGeeks</th>
 <th>NotFalse 技術客</th>
