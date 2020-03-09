@@ -84,6 +84,7 @@
 </tr>
 
 <!--
+  
   <!-- Row n of ___________ Patterns - [Some Kind of Design Pattern]-->
   <td><img src=""></td> <!-- side bar : logo -->
   <td>Some_Kind_of_Design_Pattern</td>
@@ -92,8 +93,10 @@
   <td><a href=""> ref </a></td> <!-- Column 3 : NF技術客 -->
   <td><a href=""> ref </a></td> <!-- Column 4 : github -->
   <td><a href=""> ref </a></td> <!-- Column 5 : others -->
-  </tr> 
+  </tr>
+  
 -->
+
 
 <!-- Row 1 of Creational Patterns - Simple Factory -->
 <tr>
@@ -108,7 +111,7 @@
 
 <!-- Row 2 of Creational Patterns - Factory Method -->
 <tr>
-<td><img src="https://refactoring.guru/images/patterns/cards/factory-method-mini-2x.png" ></td> <!-- side bar : logo -->
+<td><img src="https://refactoring.guru/images/patterns/cards/factory-method-mini-2x.png" height="50" width="75"></td> <!-- side bar : logo -->
 <td>Factory Method</td>
 <td></td> <!-- Column 1 : Refactoring -->
 <td><a href="https://www.geeksforgeeks.org/factory-method-python-design-patterns/">ref</a></td> <!-- Column 2 : GeeksforGeeks -->
@@ -119,7 +122,7 @@
 
 <!-- Row 3 of Creational Patterns - Abstract Factory -->
 <tr>
-<td><img src="https://refactoring.guru/images/patterns/cards/abstract-factory-mini-2x.png" height="83" width="124"></td>
+<td><img src="https://refactoring.guru/images/patterns/cards/abstract-factory-mini-2x.png" height="50" width="75"></td>
 <td>Abstract Factory</td>
 <td></td>
 <td><a href="https://www.geeksforgeeks.org/abstract-factory-method-python-design-patterns/">ref</a></td>
