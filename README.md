@@ -88,7 +88,7 @@
 <td></td>
 <td>Simple Factory</td>
 <td></td>
-<td></td>
+<td><img src="https://refactoring.guru/images/patterns/cards/abstract-factory-mini-2x.png" height="83" width="124" alt="input images"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -99,7 +99,7 @@
 <td></td>
 <td>Factory Method</td>
 <td></td>
-<td>[ref](https://www.geeksforgeeks.org/factory-method-python-design-patterns/)</td>
+<td><a href="https://www.geeksforgeeks.org/factory-method-python-design-patterns/">ref</a></td>
 <td></td>
 <td></td>
 <td></td>
