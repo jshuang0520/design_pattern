@@ -132,7 +132,7 @@
 <td>Abstract Factory</td>
 <td>
 <a href="https://refactoring.guru/design-patterns/abstract-factory">UML</a> &nbsp;&nbsp;&nbsp;
-<a href="https://refactoring.guru/design-patterns/abstract-factory/python/example#lang-features">code</a>
+<a href="https://refactoring.guru/design-patterns/abstract-factory/python/example#lang-features">code</a> &nbsp;&nbsp;&nbsp;
 </td> <!-- Column 1 : Refactoring -->
 <td><a href="https://www.geeksforgeeks.org/abstract-factory-method-python-design-patterns/"> ref </a> </td> <!-- Column 2 : GeeksforGeeks -->
 <td><a href=""> ref </a></td> <!-- Column 3 : NF技術客 -->
@@ -151,7 +151,7 @@
 <td></td>
 <td>
 <a href="https://www.oracle.com/technetwork/java/dataaccessobject-138824.html">ref1</a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.roseindia.net/tutorial/java/jdbc/dataaccessobjectdesignpattern.html">ref2</a>
+<a href="https://www.roseindia.net/tutorial/java/jdbc/dataaccessobjectdesignpattern.html">ref2</a> &nbsp;&nbsp;&nbsp;
 </td> <!-- Column 5 : others -->
 
 </tr>
