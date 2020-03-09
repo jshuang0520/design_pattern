@@ -70,11 +70,13 @@
 <th>NF技術客</th>
 <th>github</th>
 <th>others</th>
+<td>notes</td>
 </tr>
 
 <!-- Row : Creational Patterns -->
 <tr>
 <td><em>Creational Patterns</em></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -95,6 +97,7 @@
 <td><a href=""> ref </a></td> <!-- Column 3 : NF技術客 
 <td><a href=""> ref </a></td> <!-- Column 4 : github 
 <td><a href=""> ref </a></td> <!-- Column 5 : others 
+<td><a href=""> notes </a></td> </td> <!-- Column 6 : notes 
 </tr>
 -->
 
@@ -108,6 +111,7 @@
 <td></td> <!-- Column 3 : NF技術客-->
 <td></td> <!-- Column 4 : github-->
 <td><a href="https://blog.csdn.net/huobanjishijian/article/details/79151351">ref</a></td> <!-- Column 5 : others -->
+<td></td>
 </tr>
 
 <!-- Row 2 of Creational Patterns - Factory Method -->
@@ -119,6 +123,7 @@
 <td><a href="https://notfalse.net/3/ioc-di#IoCDI-vs-Factory-Method-Pattern">ref</a></td> <!-- Column 3 : NF技術客-->
 <td><a href="https://github.com/faif/python-patterns/blob/master/patterns/creational/factory.py">ref</a></td>  <!-- Column 4 : github--> 
 <td><a href="https://blog.csdn.net/huobanjishijian/article/details/79151351">ref</a></td> <!-- Column 5 : others -->
+<td></td>
 </tr>
 
 <!-- Row 3 of Creational Patterns - Abstract Factory -->
@@ -132,12 +137,14 @@
 <td><a href=""> ref </a></td> <!-- Column 3 : NF技術客 -->
 <td><a href="https://github.com/faif/python-patterns/blob/master/patterns/creational/abstract_factory.py"> ref </a></td> <!-- Column 4 : github -->
 <td><a href="https://blog.csdn.net/huobanjishijian/article/details/79151351"> ref </a></td> <!-- Column 5 : others -->
+<td></td>
 </tr>
 
 <!-- Row 4 of Creational Patterns - DAO Factory -->
 <tr>
 <td></td>
 <td>DAO Factory</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -154,6 +161,7 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 
 <!-- Row 6 of Creational Patterns - Prototype -->
@@ -165,12 +173,14 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 
 <!-- Row 7 of Creational Patterns - Singleton -->
 <tr>
 <td></td>
 <td>Singleton</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
