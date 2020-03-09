@@ -111,8 +111,9 @@
 <td></td> <!-- Column 3 : NF技術客-->
 <td></td> <!-- Column 4 : github-->
 <td><a href="https://blog.csdn.net/huobanjishijian/article/details/79151351">ref</a></td> <!-- Column 5 : others -->
-<td rowspan="3">note</td>
+<td rowspan="3"><a href="https://nbviewer.jupyter.org/github/jshuang0520/design_pattern/blob/master/factory_family.ipynb"> note </a></td> 
 </tr>
+
 
 <!-- Row 2 of Creational Patterns - Factory Method -->
 <tr>
