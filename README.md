@@ -63,7 +63,8 @@
 <table>
 
 <tr>
-<th>Design Patterns / source &nbsp;</th>
+<th>Types</th>
+<th>Design Patterns / source</th>
 <th>Refactoring Guru</th>
 <th>GeeksforGeeks</th>
 <th>NotFalse 技術客</th>
@@ -73,7 +74,8 @@
 
 <!-- Line 1 -->
 <tr>
-<td><em><font size="+3">Creational Patterns</font></em></td>
+<td><em>Creational Patterns</em></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -83,7 +85,8 @@
 
 <!-- Line 2 -->
 <tr>
-<td>### Creational Patterns</td>
+<td><em>Creational Patterns</em></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -93,7 +96,8 @@
 
 <!-- Line 3 -->
 <tr>
-<td><em>### Creational Patterns</em></td>
+<td><em>Creational Patterns</em></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -103,7 +107,8 @@
 
 <!-- Line 4 -->
 <tr>
-<td><em>### Creational Patterns</em></td>
+<td><em>Creational Patterns</em></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
