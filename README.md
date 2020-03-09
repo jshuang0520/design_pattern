@@ -99,7 +99,7 @@
 <td></td>
 <td>Factory Method</td>
 <td></td>
-<td></td>
+<td>[ref](https://www.geeksforgeeks.org/factory-method-python-design-patterns/)</td>
 <td></td>
 <td></td>
 <td></td>
@@ -110,7 +110,7 @@
 <td></td>
 <td>Abstract Factory</td>
 <td></td>
-<td></td>
+<td>[ref](https://www.geeksforgeeks.org/abstract-factory-method-python-design-patterns/)</td>
 <td></td>
 <td></td>
 <td></td>
