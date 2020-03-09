@@ -85,8 +85,8 @@
 
 <!-- Line 2 -->
 <tr>
-<td><em>Creational Patterns</em></td>
 <td></td>
+<td>Simple Factory</td>
 <td></td>
 <td></td>
 <td></td>
@@ -96,8 +96,8 @@
 
 <!-- Line 3 -->
 <tr>
-<td><em>Creational Patterns</em></td>
 <td></td>
+<td>Factory Method</td>
 <td></td>
 <td></td>
 <td></td>
@@ -107,8 +107,52 @@
 
 <!-- Line 4 -->
 <tr>
-<td><em>Creational Patterns</em></td>
 <td></td>
+<td>Abstract Factory</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<!-- Line 5 -->
+<tr>
+<td></td>
+<td>DAO Factory</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<!-- Line 6 -->
+<tr>
+<td></td>
+<td>Builder</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<!-- Line 7 -->
+<tr>
+<td></td>
+<td>Prototype</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<!-- Line 8 -->
+<tr>
+<td></td>
+<td>Singleton</td>
 <td></td>
 <td></td>
 <td></td>
