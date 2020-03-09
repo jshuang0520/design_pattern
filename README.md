@@ -113,8 +113,8 @@
 <td><a href="https://blog.csdn.net/huobanjishijian/article/details/79151351">ref</a></td> <!-- Column 5 : others -->
 <td rowspan="4">
   <a href="https://nbviewer.jupyter.org/github/jshuang0520/design_pattern/blob/master/factory_family.ipynb"> note </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=ub0DXaeV6hA"> f-method </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=xbjAsdAK4xQ"> abstract-f </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=ub0DXaeV6hA"> factory2 </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=xbjAsdAK4xQ"> factory3 </a> &nbsp;&nbsp;&nbsp;
 </td> 
 </tr>
 
@@ -135,9 +135,7 @@
 <td><img src="https://refactoring.guru/images/patterns/cards/abstract-factory-mini-2x.png" height="50" width="75"></td> <!-- side bar : logo -->
 <td>Abstract Factory</td>
 <td>
-	
 <a href="https://refactoring.guru/design-patterns/abstract-factory">UML</a> &nbsp;&nbsp;&nbsp;
-	
 <a href="https://refactoring.guru/design-patterns/abstract-factory/python/example#lang-features">code</a> &nbsp;&nbsp;&nbsp;
 </td> <!-- Column 1 : Refactoring -->
 <td><a href="https://www.geeksforgeeks.org/abstract-factory-method-python-design-patterns/"> ref </a> </td> <!-- Column 2 : GeeksforGeeks -->
