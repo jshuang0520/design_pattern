@@ -135,7 +135,9 @@
 <td><img src="https://refactoring.guru/images/patterns/cards/abstract-factory-mini-2x.png" height="50" width="75"></td> <!-- side bar : logo -->
 <td>Abstract Factory</td>
 <td>
+	
 <a href="https://refactoring.guru/design-patterns/abstract-factory">UML</a> &nbsp;&nbsp;&nbsp;
+	
 <a href="https://refactoring.guru/design-patterns/abstract-factory/python/example#lang-features">code</a> &nbsp;&nbsp;&nbsp;
 </td> <!-- Column 1 : Refactoring -->
 <td><a href="https://www.geeksforgeeks.org/abstract-factory-method-python-design-patterns/"> ref </a> </td> <!-- Column 2 : GeeksforGeeks -->
