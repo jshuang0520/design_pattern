@@ -68,9 +68,10 @@
 <th>GeeksforGeeks</th>
 <th>NotFalse 技術客</th>
 <th>faif github</th>
+<th>其他</th>
 </tr>
 
-<!-- Line 1: Original Input -->
+<!-- Line 1 -->
 <tr>
 <td><em>Creational Patterns</em></td>
 <td></td>
@@ -80,3 +81,32 @@
 <td></td>
 </tr>
 
+<!-- Line 2 -->
+<tr>
+<td><em>### Creational Patterns</em></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<!-- Line 3 -->
+<tr>
+<td><em>### Creational Patterns</em></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<!-- Line 4 -->
+<tr>
+<td><em>### Creational Patterns</em></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
