@@ -120,8 +120,8 @@
 
 <!-- Row 3 of Creational Patterns - Abstract Factory -->
 <td><img src="https://refactoring.guru/images/patterns/cards/abstract-factory-mini-2x.png" height="50" width="75"></td> <!-- side bar : logo -->
-<td>Some_Kind_of_Design_Pattern</td>
-<td></td> <!-- Column 1 : Refactoring -->
+<td>Abstract Factory</td>
+<td> <a herf="https://refactoring.guru/design-patterns/abstract-factory">UML</a> </td> <a herf="https://refactoring.guru/design-patterns/abstract-factory/python/example#lang-features">code</a><!-- Column 1 : Refactoring -->
 <td><a href="https://www.geeksforgeeks.org/abstract-factory-method-python-design-patterns/"> ref </a></td> <!-- Column 2 : GeeksforGeeks -->
 <td><a href=""> ref </a></td> <!-- Column 3 : NF技術客 -->
 <td><a href="https://github.com/faif/python-patterns/blob/master/patterns/creational/abstract_factory.py"> ref </a></td> <!-- Column 4 : github -->
