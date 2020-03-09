@@ -87,7 +87,10 @@
 <!-- Row n of ___________Patterns - [Some_Kind_of_Design_Pattern] 
 <td><img src="" height="50" width="75"></td> <!-- side bar : logo 
 <td>Some_Kind_of_Design_Pattern</td>
-<td><a href=""> ref </a></td> <!-- Column 1 : Refactoring 
+<td>
+<a href="">UML</a> &nbsp;&nbsp;&nbsp;
+<a href="">code</a> &nbsp;&nbsp;&nbsp;
+</td> <!-- Column 1 : Refactoring 
 <td><a href=""> ref </a></td> <!-- Column 2 : GeeksforGeeks 
 <td><a href=""> ref </a></td> <!-- Column 3 : NF技術客 
 <td><a href=""> ref </a></td> <!-- Column 4 : github 
