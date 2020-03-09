@@ -123,8 +123,7 @@
 <td>Abstract Factory</td>
 <td> 
 <a herf="https://refactoring.guru/design-patterns/abstract-factory">UML</a>
-
-<a herf="https://refactoring.guru/design-patterns/abstract-factory/python/example#lang-features">code</a> 
+<!-- <a herf="https://refactoring.guru/design-patterns/abstract-factory/python/example#lang-features">code</a> -->
 </td> <!-- Column 1 : Refactoring -->
 <td><a href="https://www.geeksforgeeks.org/abstract-factory-method-python-design-patterns/"> ref </a> </td> <!-- Column 2 : GeeksforGeeks -->
 <td><a href=""> ref </a></td> <!-- Column 3 : NF技術客 -->
