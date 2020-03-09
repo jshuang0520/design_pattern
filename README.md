@@ -108,7 +108,7 @@
 
 <!-- Row 2 of Creational Patterns - Factory Method -->
 <tr>
-<td><img src="https://refactoring.guru/images/patterns/cards/factory-method-mini-2x.png"></td> <!-- side bar : logo -->
+<td><img src="https://refactoring.guru/images/patterns/cards/factory-method-mini-2x.png" ></td> <!-- side bar : logo -->
 <td>Factory Method</td>
 <td></td> <!-- Column 1 : Refactoring -->
 <td><a href="https://www.geeksforgeeks.org/factory-method-python-design-patterns/">ref</a></td> <!-- Column 2 : GeeksforGeeks -->
@@ -119,7 +119,7 @@
 
 <!-- Row 3 of Creational Patterns - Abstract Factory -->
 <tr>
-<td><img src="https://refactoring.guru/images/patterns/cards/abstract-factory-mini-2x.png"></td>
+<td><img src="https://refactoring.guru/images/patterns/cards/abstract-factory-mini-2x.png" height="83" width="124"></td>
 <td>Abstract Factory</td>
 <td></td>
 <td><a href="https://www.geeksforgeeks.org/abstract-factory-method-python-design-patterns/">ref</a></td>
