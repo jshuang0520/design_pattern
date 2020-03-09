@@ -84,17 +84,15 @@
 </tr>
 
 <!--
-  
-  <!-- Row n of ___________ Patterns - [Some Kind of Design Pattern]-->
-  <td><img src=""></td> <!-- side bar : logo -->
+  <!-- Row n of ___________ Patterns - [Some Kind of Design Pattern] 
+  <td><img src=""></td> <!-- side bar : logo 
   <td>Some_Kind_of_Design_Pattern</td>
-  <td><a href=""> ref </a></td> <!-- Column 1 : Refactoring -->
-  <td><a href=""> ref </a></td> <!-- Column 2 : GeeksforGeeks -->
-  <td><a href=""> ref </a></td> <!-- Column 3 : NF技術客 -->
-  <td><a href=""> ref </a></td> <!-- Column 4 : github -->
-  <td><a href=""> ref </a></td> <!-- Column 5 : others -->
+  <td><a href=""> ref </a></td> <!-- Column 1 : Refactoring 
+  <td><a href=""> ref </a></td> <!-- Column 2 : GeeksforGeeks 
+  <td><a href=""> ref </a></td> <!-- Column 3 : NF技術客 
+  <td><a href=""> ref </a></td> <!-- Column 4 : github 
+  <td><a href=""> ref </a></td> <!-- Column 5 : others 
   </tr>
-  
 -->
 
 
