@@ -149,7 +149,10 @@
 <td></td>
 <td></td>
 <td></td>
-<td><a href="https://www.oracle.com/technetwork/java/dataaccessobject-138824.html"> ref </a></td> <!-- Column 5 : others -->
+<td>
+<a href="https://www.oracle.com/technetwork/java/dataaccessobject-138824.html">ref1</a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.roseindia.net/tutorial/java/jdbc/dataaccessobjectdesignpattern.html">ref2</a> &nbsp;&nbsp;&nbsp;
+</td> <!-- Column 5 : others -->
 
 </tr>
 
