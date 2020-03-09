@@ -110,7 +110,7 @@
 <td></td>
 <td>Abstract Factory</td>
 <td></td>
-<td>[ref](https://www.geeksforgeeks.org/abstract-factory-method-python-design-patterns/)</td>
+<a href="https://www.geeksforgeeks.org/abstract-factory-method-python-design-patterns/"><td  width="200">ref</td></a>
 <td></td>
 <td></td>
 <td></td>
