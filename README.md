@@ -136,7 +136,7 @@ orderPizza()方法依賴工廠方法來建立具象類別，並產生出實際�
 
 <!-- Row 2 of Creational Patterns - Factory Method -->
 <tr>
-<td><img src="https://refactoring.guru/images/patterns/cards/factory-method-mini-2x.png" height="50" width="75"> 多個產品，每個產品1個類型; client call 某一個 ConcreteCreator 使用工廠方法把產品做出來，回到 AbstractCreator 做product.doStuff()(doStuff()裡面一系列的prepare(),bake(),cut(),box()就是商業邏輯)</td> <!-- side bar : logo -->
+<td><img src="https://refactoring.guru/images/patterns/cards/factory-method-mini-2x.png" height="50" width="75"> 1個產品，每個產品多個類型; client call 某一個 ConcreteCreator 使用工廠方法把產品做出來，回到 AbstractCreator 做product.doStuff()(doStuff()裡面一系列的prepare(),bake(),cut(),box()就是商業邏輯)</td> <!-- side bar : logo -->
 <td>Factory Method</td>
 <td>
 <a href="https://refactoring.guru/design-patterns/factory-method">UML</a> &nbsp;&nbsp;&nbsp;
@@ -159,7 +159,10 @@ orderPizza()方法依賴工廠方法來建立具象類別，並產生出實際�
 <td><a href="https://www.geeksforgeeks.org/abstract-factory-method-python-design-patterns/"> ref </a> </td> <!-- Column 2 : GeeksforGeeks -->
 <td><a href=""> ref </a></td> <!-- Column 3 : NF技術客 -->
 <td><a href="https://github.com/faif/python-patterns/blob/master/patterns/creational/abstract_factory.py"> ref </a></td> <!-- Column 4 : github -->
-<td><a href="https://blog.csdn.net/huobanjishijian/article/details/79151351"> ref </a></td> <!-- Column 5 : others -->
+<td>
+<a href="https://blog.csdn.net/huobanjishijian/article/details/79151351"> ref </a>
+<a href="https://medium.com/design-patterns-with-python/hihih-2ce4b45624d6"> medium </a>
+</td> <!-- Column 5 : others -->
 
 </tr>
 
