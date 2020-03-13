@@ -219,3 +219,8 @@ orderPizza()方法依賴工廠方法來建立具象類別，並產生出實際�
 <td></td>
 <td></td>
 </tr>
+
+
+## [Python Design Patterns: For Sleek And Fashionable Code](https://www.toptal.com/python/python-design-patterns)
+
+## [Design Patterns in Python - GOF](https://legacy.python.org/workshops/1997-10/proceedings/savikko.html#gof)
