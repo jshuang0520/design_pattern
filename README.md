@@ -57,6 +57,8 @@
   - Strategy
 	
   - Visitor
+
+### [Design Patterns in Python - stack abuse](https://stackabuse.com/design-patterns-in-python/)
   
 
 ```diff
@@ -221,6 +223,10 @@ orderPizza()方法依賴工廠方法來建立具象類別，並產生出實際�
 </tr>
 
 </table>
+
+---
+
+## Discussion
 
 ## [Python Design Patterns: For Sleek And Fashionable Code](https://www.toptal.com/python/python-design-patterns)
 
