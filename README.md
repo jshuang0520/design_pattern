@@ -130,6 +130,7 @@ orderPizza()方法依賴工廠方法來建立具象類別，並產生出實際�
   <a href="https://nbviewer.jupyter.org/github/jshuang0520/design_pattern/blob/master/factory_family.ipynb"> note </a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/watch?v=ub0DXaeV6hA"> factory2 </a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/watch?v=xbjAsdAK4xQ"> factory3 </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/bethrobson/Head-First-Design-Patterns/tree/master/src/headfirst/designpatterns"> Head First Python code </a> &nbsp;&nbsp;&nbsp;
 </td> 
 </tr>
 
@@ -162,6 +163,7 @@ orderPizza()方法依賴工廠方法來建立具象類別，並產生出實際�
 <td>
 <a href="https://blog.csdn.net/huobanjishijian/article/details/79151351"> ref </a>
 <a href="https://medium.com/design-patterns-with-python/hihih-2ce4b45624d6"> medium </a>
+<a href="https://github.com/miguelalba-old/hfdp-python/blob/b35a06a6168bc8b8601d04d7e4f7f33e92d56ea8/factory/pizzaf.py#L147"> pizza code </a>
 </td> <!-- Column 5 : others -->
 
 </tr>
@@ -175,10 +177,9 @@ orderPizza()方法依賴工廠方法來建立具象類別，並產生出實際�
 <td></td>
 <td></td>
 <td>
-<a href="https://www.oracle.com/technetwork/java/dataaccessobject-138824.html">ref1</a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.oracle.com/technetwork/java/dataaccessobject-138824.html"> J2EE </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.roseindia.net/tutorial/java/jdbc/dataaccessobjectdesignpattern.html">ref2</a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/watch?v=1ui5yVMivTo">youtube</a> &nbsp;&nbsp;&nbsp;
-	
 </td> <!-- Column 5 : others -->
 
 </tr>
