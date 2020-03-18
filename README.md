@@ -133,6 +133,7 @@ orderPizza()方法依賴工廠方法來建立具象類別，並產生出實際�
   <a href="https://www.youtube.com/watch?v=ub0DXaeV6hA"> factory2 </a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/watch?v=xbjAsdAK4xQ"> factory3 </a> &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/bethrobson/Head-First-Design-Patterns/tree/master/src/headfirst/designpatterns"> Head First Python code </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://carsonwah.github.io/factory-design-pattern.html"> 3 patterns </a> &nbsp;&nbsp;&nbsp;
 </td> 
 </tr>
 
