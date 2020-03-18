@@ -172,7 +172,9 @@ orderPizza()方法依賴工廠方法來建立具象類別，並產生出實際�
 
 <!-- Row 4 of Creational Patterns - DAO Factory -->
 <tr>
-<td>it's Abstract Factory</td>
+<td><img src="https://gerardnico.com/_media/lang/java/daoabstractfactorypattern.jpg?ezimgfmt=rs:752x431/rscb1/ng:webp/ngcb1" height="50" width="75"> Aiming to minimize the direct dependency between:
+1. application code
+2. data access code </td> <!-- side bar : logo -->
 <td>DAO Factory</td>
 <td></td>
 <td></td>
@@ -182,6 +184,7 @@ orderPizza()方法依賴工廠方法來建立具象類別，並產生出實際�
 <a href="https://www.oracle.com/technetwork/java/dataaccessobject-138824.html"> J2EE </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.roseindia.net/tutorial/java/jdbc/dataaccessobjectdesignpattern.html">ref2</a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/watch?v=1ui5yVMivTo">youtube</a> &nbsp;&nbsp;&nbsp;
+<a href="https://gerardnico.com/lang/java/dao">DataBlog</a> &nbsp;&nbsp;&nbsp;
 </td> <!-- Column 5 : others -->
 
 </tr>
