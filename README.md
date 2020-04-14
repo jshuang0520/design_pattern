@@ -1,6 +1,11 @@
 ## Design Patterns
 
-## [Python Design Patterns Tutorial - Home Page](https://www.tutorialspoint.com/python_design_patterns/index.htm)
+## [Python Design Patterns: -01- Introduction (medium)](https://medium.com/@mrfksiv/python-design-patterns-01-introduction-54e681aaf2d0)
+
+1. The Singleton
+2. The Factory and Abstract Factory
+3. The Adapter
+4. The Facade (not yet published)
 
 ## [DESIGN PATTERNS in PYTHON](https://refactoring.guru/design-patterns/python)
 	
@@ -237,3 +242,8 @@ orderPizza()方法依賴工廠方法來建立具象類別，並產生出實際�
 ## [Python Design Patterns: For Sleek And Fashionable Code](https://www.toptal.com/python/python-design-patterns)
 
 ## [Design Patterns in Python - GOF](https://legacy.python.org/workshops/1997-10/proceedings/savikko.html#gof)
+
+---
+## Others
+
+[Python Design Patterns Tutorial - Home Page](https://www.tutorialspoint.com/python_design_patterns/index.htm)
