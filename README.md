@@ -1,5 +1,6 @@
 ## Design Patterns
 
+## [Python Design Patterns Tutorial - Home Page](https://www.tutorialspoint.com/python_design_patterns/index.htm)
 
 ## [DESIGN PATTERNS in PYTHON](https://refactoring.guru/design-patterns/python)
 	
